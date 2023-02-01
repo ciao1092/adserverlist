@@ -1,8 +1,8 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 adservice.google.com
 0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 doubleclick.net/
-0.0.0.0 ad.doubleclick.net/
+0.0.0.0 doubleclick.net
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 m.doubleclick.net
 0.0.0.0 mediavisor.doubleclick.net
@@ -19,9 +19,9 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 hotjar.com
 0.0.0.0 static.hotjar.com
-0.0.0.0 mouseflow.com/
+0.0.0.0 mouseflow.com
 0.0.0.0 a.mouseflow.com
-0.0.0.0 freshmarketer.com/
+0.0.0.0 freshmarketer.com
 0.0.0.0 luckyorange.com
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 w1.luckyorange.com
